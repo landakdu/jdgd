@@ -74,14 +74,20 @@ display: none;
 .tutup, .buka, .buka0 {
     color: aliceblue;
     font-size: -webkit-xxx-large;
+    font-family: auto;
     width: 98%;
     margin: 0.5% 1%;
     border: outset;
     border-radius: 100px;
     border-color: aquamarine;
-    background: linear-gradient(to right, #50d7ad 2%, #00f5a9 88%, #69ebc3 100%);
     text-shadow: 2px 1px 0px rgba(39 36 36 / 75%),
               0px 0px 5px rgba(2 2 2 / 75%);
+    background: radial-gradient(ellipse farthest-corner at right bottom, #92f9ff 0%, #b3eded 8%, #81c3bb 30%, #8ed1cb 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #049d92 0%, #6aafb7 8%, #9fc5c5 25%, #00bfaf 62.5%, #00ffff 100%);
+    
+}
+
+.tutup:hover, .buka:hover, .buka0:hover {
+background:linear-gradient(to right,#00ffc4 2%, #00ffc4 88%, #00ffc4 100%);
 }
 
 .buka {
