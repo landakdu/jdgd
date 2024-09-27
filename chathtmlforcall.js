@@ -12,7 +12,7 @@ const menu3 = `
 `;
 
 const menu4 = `
-<button class="buka" onclick="enableAutoplay(), showhide(), tombol(), chatke()" value="button"><a class="buka1"><span>MULAI CHAT</span></a></button>
+<button class="buka" onclick="enableAutoplay(), showhide(), tombol()" value="button"><a class="buka1"><span>MULAI CHAT</span></a></button>
 <button class="buka0" onclick="document.location='../../index.html'" value="button">JUDISUHU</button>
 `;
 
