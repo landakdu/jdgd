@@ -4,11 +4,12 @@ const menu1 = `
 `;
 
 const menu2 = `
-<img class="iklan1" onclick="document.location='../../index.html'" style="background-image: url(https://iili.io/dL4LHyx.gif);"></img>
+<img class="iklan1" onclick="document.location='../../index.html'" style="background-image: url(https://iili.io/dL4LHyx.gif);" src="https://i.ibb.co/R0Sgdz1/borderjs.gif"></img>
 `;
 
 const menu3 = `
-<img class="iklan2" onclick="document.location='../../index.html'" style="background-image: url(https://iili.io/dL6Jeje.gif);"></img>
+<img class="iklan2" onclick="document.location='../../index.html'" style="background-image: url(https://iili.io/dL6Jeje.gif);" src="https://i.ibb.co/R0Sgdz1/borderjs.gif"></img>
+
 `;
 
 const menu4 = `
