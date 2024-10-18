@@ -52,6 +52,7 @@ display: block;
 }
 
 .chat {
+border-radius: 50px;
 width: 50%;
 height: 100%;
 }
@@ -61,11 +62,13 @@ width: 24.4%;
 height: 100%;
 padding: 0%;
 margin: 0%;
-background-repeat: space, repeat-y;
+border-radius: 30px;
+background-repeat: no-repeat;
 background-attachment: local;
-background-size: contain;
+background-size: 100%, cover;
 background-position: center;
 }
+
 
 .audio {
 display: none;
@@ -111,7 +114,7 @@ background-position: top;
 background-color: #ffffff78;
 background-repeat: no-repeat;
 background-attachment: local;
-background-size: auto 8%;
+background-size: auto 10%;
 border-radius: 50px;
 text-align: start;
 font-family: monospace;
