@@ -8,6 +8,10 @@ width: 89.9%;
     padding: 0% 4.4%;
 }
 
+.container{
+padding: 0% 0% 0% 0%;
+}
+
 #myDIV {
 display: none;
 height: 100%;
@@ -19,21 +23,23 @@ text-align: justify;
 }
 
 .chat {
-border-radius:50px;
-width: 50%;
+border-radius:30px;
+border: ridge 2px lightgoldenrodyellow;
+width: 51.3%;
 height: 100%;
 }
 
 .iklan1, .iklan2 {
-width: 24.3%;
-height: 100%;
-padding: 0%;
-margin: 0%;
-border-radius: 30px;
-background-repeat: no-repeat;
-background-attachment: local;
-background-size: 100%, cover;
-background-position: center;
+width: 23.3%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+    border-radius: 15px;
+    border: ridge 2px lightgoldenrodyellow;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: 100%, cover;
+    background-position: center;
 }
 
 
@@ -49,7 +55,8 @@ display: none;
   float: left;
   height:50px;
   margin: 2% 1% 1% 1%;
-  border-bottom:ridge;
+  border-color: #cbc79d;
+  border-bottom: ridge 3px lightgoldenrodyellow;
   text-overflow: ellipsis;
   text-shadow: 2px 1px 0px rgba(39 36 36 / 75%),
               0px 0px 5px rgba(2 2 2 / 75%);
@@ -87,14 +94,9 @@ color: brown;
 
         }
 
-@media(max-width:1025px){.mobilesetingnow{flex-wrap:nowrap}
-
-.keterangan-font-size{
-    font-size: 140%;
-}
 
 
-@media(max-width:999px){.mobilesetingnow{flex-wrap:nowrap}
+@media screen and (max-width: 1174px) {
 
 
 .chat {
@@ -104,8 +106,6 @@ width: 100%;
 
 .iklan1, .iklan2 {
 display: none;
-position: absolute;
-width: 20%;
 }
 
 .iklan1 {
@@ -124,4 +124,5 @@ margin: 5% 0% 2% 0%;
 .keterangan-font-size{
     font-size: 95%;
     padding:5%;
+}
 }
