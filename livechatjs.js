@@ -1594,7 +1594,17 @@ const chat133 = `<div class="modalbahaya1" id="dewakoin">
 <div class="clearfixbahaya">
 </div></div></form>
 </div>`;
-const chat134 = ``;
+const chat134 = `<div class="modalbahaya1" id="spesial303">
+<form class="modalbahaya1-content">
+<div class="container">
+<h1 class="logositus" style="background-image: url(https://i.ibb.co/F5gztjD/spesial303.png);" ></h1>
+<a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17021322" target="spesial303"><button class="showclosechat" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat" onClick="window.location.reload();" type="button"><b>TUTUP</b></button>
+<img class="iklan1" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<iframe class="chat" src="../berita.html" name="spesial303"></iframe>
+<img class="iklan2" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<div class="clearfixbahaya">
+</div></div></form>
+</div>`;
 const chat135 = ``;
 const chat136 = ``;
 const chat137 = ``;
@@ -2468,7 +2478,6 @@ const chat1000 = `<div class="modalbahaya1" id="nama">
 <img class="iklan1" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="nama"></iframe>
 <img class="iklan2" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
-
 <div class="clearfixbahaya">
 </div></div></form>
 </div>`;
