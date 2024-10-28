@@ -1,6 +1,6 @@
 // code standing inside html.js for easy edit
 const menu1 = `
-<ul id="myUL">
+<ul class="kekiri1" id="myUL">
   
 <!--aman1--> 
 
@@ -348,34 +348,23 @@ const menu1 = `
 </ul> 
 <!--menu2-->
 <div class="modalbahaya1 menu" id="chatadmin">
-<span class="close" onclick="document.getElementById('chatadmin').style.display='none'" title="Close Modal">×</span>
 <form class="modalbahaya1-content">
 <div class="container">
-<h1 class="warnatextchat">CHAT ADMIN</h1>
 <div class="bgchatadmin"></div>
 <div class="clearfixbahaya">
 <button class="tutup" onclick="document.getElementById('chatadmin').style.display='none'" type="button"><b>TUTUP</b></button>
 <button class="tawk" onclick="lcxchattawk()" type="button"><b>CHAT TAWK</b></button>
 <button class="fb" onclick="lcxchatfb()" type="button"><b>CHAT FB</b></button>
 </div></div></form></div> 
+
 <div class="modalbahaya1" id="ptutorvideo">
-<span class="close" onclick="document.getElementById('ptutorvideo').style.display='none'" title="Close Modal">×</span>
 <form class="modalbahaya1-content">
 <div class="container">
-<h1 class="warnatextchat">Video Tutorial</h1>
+<button class="ttpupdatelink" onClick="window.location.reload();" type="button"><b>TUTUP</b></button>
 <iframe class="videocara" src="https://drive.google.com/file/d/1FUdQhAjZa6Yax62HvIlV6NXHdoVFd6_-/preview" title="Iframe Example"></iframe>
 <div class="clearfixbahaya">
-<button class="ttpupdatelink" onclick="document.getElementById('ptutorvideo').style.display='none'" type="button"><b>TUTUP</b></button>
 </div></div></form></div>
-<div class="modalbahaya1" id="updatelink">
-<span class="close" onclick="document.getElementById('updatelink').style.display='none'" title="Close Modal">×</span>
-<form class="modalbahaya1-content">
-<div class="container">
-<h1 class="warnabahaya">INFO LINK UPDATE</h1>
-<div class="bgdomain"></div>
-<div class="clearfixbahaya">
-<button class="ttpupdatelink" onclick="document.getElementById('updatelink').style.display='none'" type="button"><b>TUTUP</b></button>
-</div></div></form></div>
+
 
 
 
