@@ -1,4 +1,3 @@
-document.addEventListener("DOMContentLoaded", function(event) { document.createElement('form').submit.call(document.getElementById('yourform')); }); 
 function xjudisuhu() {location.replace("https://masuktanpavpnselamanya.on.drv.tw/links/judisuhu/");}
 function xfreebet() {window.open("./link/freebet/index.html");}
 function xpphoki() {window.open("./link/pphoki/index.html");}
