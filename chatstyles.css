@@ -10,6 +10,7 @@ width: 89.9%;
 
 .container{
 padding: 0% 0% 0% 0%;
+height: 100%;
 }
 
 #myDIV {
@@ -76,13 +77,17 @@ display: none;
   background:linear-gradient(to right,#00ffc4 2%, #00ffc4 88%, #00ffc4 100%);
 }
 
+.logo1{
+width: 100%;
+height: 4%;
+}
+
 .logositus {
-background-position: center;
-margin: 0% 40%;
-background-repeat: no-repeat;
-background-size: contain;
-width: 20%;
-height: 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: auto;
+    height: 100%;
 }
 
 .keteranganwaspada {
