@@ -68,6 +68,66 @@ display: none;
 
 .showclosechat { width: 48%; }
 
+.keatas01 {
+  position: relative;
+  animation-name: keatas01;
+  animation-duration: 4s;
+  animation-delay: -0s;
+}
+
+.kebawah01 {
+  position: relative;
+  animation-name: kebawah01;
+  animation-duration: 4s;
+  animation-delay: -0s;
+}
+
+.kekanan01 {
+  position: relative;
+  animation-name: kekanan01;
+  animation-duration: 0.7s;
+  animation-delay: -0s;
+}
+
+.kekiri01 {
+  position: relative;
+  animation-name: kekiri01;
+  animation-duration: 1s;
+  animation-delay: -0s;
+}
+
+@keyframes keatas01 {
+  0%   {top:200%;}
+  25%  {top:200%;}
+  50%  {top:200%;}
+  75%  {top:200%;}
+  100% {top:0%;}
+}
+
+@keyframes kebawah01 {
+  0%   {bottom:200%;}
+  25%  {bottom:200%;}
+  50%  {bottom:200%;}
+  75%  {bottom:200%;}
+  100% {bottom:0%;}
+}
+
+@keyframes kekanan01 {
+  0%   {right:200%;}
+  25%  {right:200%;}
+  50%  {right:200%;}
+  75%  {right:200%;}
+  100% {right:0%;}
+}
+
+@keyframes kekiri01 {
+  0%   {left:200%;}
+  25%  {left:200%;}
+  50%  {left:200%;}
+  75%  {left:200%;}
+  100% {left:0%;}
+}
+
 /* Add a color to the cancel button */
 
 .showclosechat {
