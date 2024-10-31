@@ -3,7 +3,7 @@ const chat1 = `<div class="modalbahaya1" id="bk8">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/d0zjVj7/bk8.png);" ></h1></div>
 <a href="https://vue.livesupportbs.com/chatwindow.aspx?siteId=5000379&chatGroup=1&planId=08040000-0000-0000-0000-008e004c4cbb#" target="bk8"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="bk8"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -14,7 +14,7 @@ const chat2 = `<div class="modalbahaya1" id="indogenting">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/5cFQP77/indogenting.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931&group=5&" target="indogenting"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="indogenting"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -25,7 +25,7 @@ const chat3 = `<div class="modalbahaya1" id="pokerbo">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/jbq4bTZ/pokerbo.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=3658611" target="pokerbo"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="pokerbo"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -36,7 +36,7 @@ const chat4 = `<div class="modalbahaya1" id="kudapoker">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/jLh7705/kudapoker.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14720919" target="kudapoker"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="kudapoker"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -47,7 +47,7 @@ const chat5 = `<div class="modalbahaya1" id="tatabet">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/CKzx7d0/tatabet.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931&group=8&" target="tatabet"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="tatabet"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -58,7 +58,7 @@ const chat6 = `<div class="modalbahaya1" id="satutogel">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/jkxxWyW/satutogel.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=4743931" target="satutogel"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="satutogel"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -69,7 +69,7 @@ const chat7 = `<div class="modalbahaya1" id="supertogel">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/5M34GdJ/supertogel.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12759861" target="supertogel"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="supertogel"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -80,7 +80,7 @@ const chat8 = `<div class="modalbahaya1" id="ibutogel">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Js628HN/ibutogel.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17138790" target="ibutogel"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="ibutogel"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -91,7 +91,7 @@ const chat9 = `<div class="modalbahaya1" id="m88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/XCPYzKF/m88.png);" ></h1></div>
 <a href="https://www.facebook.com/M88MansionOfficial/" target="m88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="m88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -102,7 +102,7 @@ const chat10 = `<div class="modalbahaya1" id="dafabet">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/kgzjMGh/dafabet.png);" ></h1></div>
 <a href="https://www.cs-livechat.com/ccaas/v2/en/mc-desktop?brand=Dafa&height=760&width=360&title=avayaChatWindow&product=dafabet" target="dafabet"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="dafabet"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -113,7 +113,7 @@ const chat11 = `<div class="modalbahaya1" id="areabola">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/M2sD6N3/areabola.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=6747761" target="areabola"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="areabola"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -124,7 +124,7 @@ const chat12 = `<div class="modalbahaya1" id="maxwin88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/ygJDT2R/maxwin88.gif);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14602230" target="maxwin88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="maxwin88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -135,7 +135,7 @@ const chat13 = `<div class="modalbahaya1" id="rajatoto3">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/QCSbxRf/rajatoto3.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=9533740" target="rajatoto3"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="rajatoto3"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -146,7 +146,7 @@ const chat14 = `<div class="modalbahaya1" id="hedon77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/VBW7s0w/hedon77.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17285331" target="hedon77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="hedon77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -157,7 +157,7 @@ const chat15 = `<div class="modalbahaya1" id="serbacasino">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/GM9mBGT/serbacasino.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=8475017" target="serbacasino"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="serbacasino"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -168,7 +168,7 @@ const chat16 = `<div class="modalbahaya1" id="bom29toto">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/bFJp7fc/bom29toto.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13794945" target="bom29toto"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="bom29toto"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -179,7 +179,7 @@ const chat17 = `<div class="modalbahaya1" id="betcoinasia">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/pbbcKzd/betcoinasia.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12845313" target="betcoinasia"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="betcoinasia"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -190,7 +190,7 @@ const chat18 = `<div class="modalbahaya1" id="mega55">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/94KR4Lb/mega55.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12269352" target="mega55"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mega55"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -201,7 +201,7 @@ const chat19 = `<div class="modalbahaya1" id="wishslot">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/tPdKHV9/wishslot.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13470840" target="wishslot"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="wishslot"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -212,7 +212,7 @@ const chat20 = `<div class="modalbahaya1" id="pintutogel">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/CKVbVx6/pintutogel.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14193819" target="pintutogel"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="pintutogel"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -223,7 +223,7 @@ const chat21 = `<div class="modalbahaya1" id="nyaitogel">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/fYj6RRb/nyaitogel.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=18057555" target="nyaitogel"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="nyaitogel"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -234,7 +234,7 @@ const chat22 = `<div class="modalbahaya1" id="aurajp">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/tZw3CLz/aurajp.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=8178181" target="aurajp"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="aurajp"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -245,7 +245,7 @@ const chat23 = `<div class="modalbahaya1" id="dauntogel">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/mJwRMtK/dauntogel.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=9074555" target="dauntogel"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="dauntogel"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -256,7 +256,7 @@ const chat24 = `<div class="modalbahaya1" id="piontogel">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/GV4xJ6R/piontogel.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14340006" target="piontogel"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="piontogel"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -267,7 +267,7 @@ const chat25 = `<div class="modalbahaya1" id="jadijp">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/p1TGQ22/jadijp.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14997006" target="jadijp"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="jadijp"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -278,7 +278,7 @@ const chat26 = `<div class="modalbahaya1" id="cvtogel">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/tLrSqst/cvtogel.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14791362" target="cvtogel"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="cvtogel"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -289,7 +289,7 @@ const chat27 = `<div class="modalbahaya1" id="mpo555">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/c1CPH1y/mpo555.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=11231817" target="mpo555"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mpo555"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -300,7 +300,7 @@ const chat28 = `<div class="modalbahaya1" id="wisdom77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/NV8GR8g/wisdom77.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=16745922" target="wisdom77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="wisdom77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -311,7 +311,7 @@ const chat29 = `<div class="modalbahaya1" id="harbet35">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/TMVMt2n/harget35.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17058288" target="harbet35"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="harbet35"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -322,7 +322,7 @@ const chat30 = `<div class="modalbahaya1" id="poa88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/hY4HCSh/poa88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14763231" target="poa88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="poa88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -333,7 +333,7 @@ const chat31 = `<div class="modalbahaya1" id="eqn777">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/gzkZRsz/eqn777.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=16923222" target="eqn777"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="eqn777"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -344,7 +344,7 @@ const chat32 = `<div class="modalbahaya1" id="lembagatoto">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/v4dDPfy/lembagatoto.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14925582" target="lembagatoto"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="lembagatoto"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -355,7 +355,7 @@ const chat33 = `<div class="modalbahaya1" id="royal123">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/pdGSBBX/royal123.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12989832" target="royal123"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="royal123"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -366,7 +366,7 @@ const chat34 = `<div class="modalbahaya1" id="gacorslot">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Px7ZkzY/gacorslot.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12660837" target="gacorslot"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="gacorslot"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -377,7 +377,7 @@ const chat35 = `<div class="modalbahaya1" id="agenslot168">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/2q1WQhP/agenslot168.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15478350" target="agenslot168"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="agenslot168"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -388,7 +388,7 @@ const chat36 = `<div class="modalbahaya1" id="skslot">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Yy81RgD/skslot.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14678328" target="skslot"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="skslot"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -399,7 +399,7 @@ const chat37 = `<div class="modalbahaya1" id="lotuspelangi">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/rtgyXnb/lotuspelangii.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12407328" target="lotuspelangii"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="lotuspelangii"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -410,7 +410,7 @@ const chat38 = `<div class="modalbahaya1" id="plaza4d">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/qNwyrD1/plaza4d.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=10910702" target="plaza4d"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="plaza4d"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -421,7 +421,7 @@ const chat39 = `<div class="modalbahaya1" id="dewatogel">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/KK4LhBC/dewatogel.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/licence/5501791/v2/open_chat.cgi" target="dewatogel"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="dewatogel"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -432,7 +432,7 @@ const chat40 = `<div class="modalbahaya1" id="mpo888">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/M5L5vkV/mpo888.gif);" ></h1></div>
 <a href="https://secure.livechatenterprise.com/licence/14751111/v2/open_chat.cgi?groups=0" target="mpo888"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mpo888"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -443,7 +443,7 @@ const chat41 = `<div class="modalbahaya1" id="nagatop">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/xjBLYWz/nagatop.gif);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=9368830" target="nagatop"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="nagatop"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -454,7 +454,7 @@ const chat42 = `<div class="modalbahaya1" id="mansion77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/3rTfYGZ/mansion77.gif);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13085046" target="mansion77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mansion77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -465,7 +465,7 @@ const chat43 = `<div class="modalbahaya1" id="mega38">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/dJDLMHp/mega38.gif);" ></h1></div>
 <a href="https://tawk.to/chat/64bad53bcc26a871b02a3c54/1h5st1sco" target="mega38"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mega38"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -476,7 +476,7 @@ const chat44 = `<div class="modalbahaya1" id="gacor88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/L5137w7/gacor88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12875568" target="gacor88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="gacor88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -487,7 +487,7 @@ const chat45 = `<div class="modalbahaya1" id="preman69">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/zGp19SD/preman69.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=16706139" target="preman69"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="preman69"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -498,7 +498,7 @@ const chat46 = `<div class="modalbahaya1" id="jnt77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/d7R7Yrn/jnt77.png);" ></h1></div>
 <a href="https://tawk.to/chat/65ac47da8d261e1b5f55f853/1hkkfhc8n" target="jnt77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="jnt77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -509,7 +509,7 @@ const chat47 = `<div class="modalbahaya1" id="sgpslot">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/3RkmPPG/sgpslot.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14257701" target="sgpslot"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="sgpslot"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -520,7 +520,7 @@ const chat48 = `<div class="modalbahaya1" id="jawara88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/rbFQsPb/jawara88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17979435&" target="jawara88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="jawara88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -531,7 +531,7 @@ const chat49 = `<div class="modalbahaya1" id="megabandar">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/4fKYRSB/megabandar.png);" ></h1></div>
 <a href="https://secure.livechatenterprise.com/licence/10515362/v2/open_chat.cgi?groups=0" target="megabandar"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="megabandar"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -542,7 +542,7 @@ const chat50 = `<div class="modalbahaya1" id="baron4d">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/MPMZSzt/baron4d.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13878036" target="baron4d"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="baron4d"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -553,7 +553,7 @@ const chat51 = `<div class="modalbahaya1" id="amavi88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/YbBRXtD/amavi88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=16955109" target="amavi88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="amavi88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -564,7 +564,7 @@ const chat52 = `<div class="modalbahaya1" id="rajampo">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/k0TGbZT/rajampo.png);" ></h1></div>
 <a href="https://tawk.to/chat/65a8cd260ff6374032c1a266/1hkdm2on4" target="rajampo"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="rajampo"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -575,7 +575,7 @@ const chat53 = `<div class="modalbahaya1" id="ligahoki89">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/XXSwCJ8/ligahoki89.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15127422" target="ligahoki89"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="ligahoki89"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -586,7 +586,7 @@ const chat54 = `<div class="modalbahaya1" id="mpo999">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/hKvxyVL/mpo999.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=11552598" target="mpo999"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mpo999"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -597,7 +597,7 @@ const chat55 = `<div class="modalbahaya1" id="mpo333">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/NCFxSzV/mpo333.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14870319" target="mpo333"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mpo333"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -608,7 +608,7 @@ const chat56 = `<div class="modalbahaya1" id="66kone">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/XsTymF0/66kone.png);" ></h1></div>
 <a href="https://tawk.to/chat/64a2303594cf5d49dc612122/1h4cookhi" target="66kone"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="66kone"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -619,7 +619,7 @@ const chat57 = `<div class="modalbahaya1" id="kiw69">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/XJyqgY9/kiw69.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=16541139" target="kiw69"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="kiw69"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -630,7 +630,7 @@ const chat58 = `<div class="modalbahaya1" id="fijislot">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Ld1WZfc/fijislot.png);" ></h1></div>
 <a href="https://tawk.to/chat/650952a90f2b18434fd94e5d/1ham6lq2j" target="fijislot"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="fijislot"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -641,7 +641,7 @@ const chat59 = `<div class="modalbahaya1" id="raja168">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/xfPyYFS/raja168.gif);" ></h1></div>
 <a href="https://tawk.to/chat/660c65101ec1082f04de11f5/1hqg6lj00" target="raja168"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="raja168"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -652,7 +652,7 @@ const chat60 = `<div class="modalbahaya1" id="bagus88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/pZ3XMXb/bagus88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15300816" target="bagus88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="bagus88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -663,7 +663,7 @@ const chat61 = `<div class="modalbahaya1" id="neo177">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/xYqCSgs/neo177.png);" ></h1></div>
 <a href="https://tawk.to/chat/64570c826a9aad4bc5794f98/1gvq0ho2l?" target="neo177"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="neo177"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -674,7 +674,7 @@ const chat62 = `<div class="modalbahaya1" id="demen303">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/x62HzcF/demen303.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=11194722" target="demen303"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="demen303"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -685,7 +685,7 @@ const chat63 = `<div class="modalbahaya1" id="musangwin">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/5rwr5Px/musangwin.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14942064" target="musangwin"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="musangwin"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -696,7 +696,7 @@ const chat64 = `<div class="modalbahaya1" id="yakinslot88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/mbf9b3n/yakinslot88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15868308" target="yakinslot88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="yakinslot88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -707,7 +707,7 @@ const chat65 = `<div class="modalbahaya1" id="gacorbos88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/pZyhTg4/gacorbos88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15550494" target="gacorbos88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="gacorbos88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -718,7 +718,7 @@ const chat66 = `<div class="modalbahaya1" id="eraplay88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/qxqW8FY/eraplay88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15206181" target="eraplay88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="eraplay88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -729,7 +729,7 @@ const chat67 = `<div class="modalbahaya1" id="jitu77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/5Wb80Wh/jitu77.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14666055" target="jitu77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="jitu77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -740,7 +740,7 @@ const chat68 = `<div class="modalbahaya1" id="kudetabet98">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Sx7ntqd/kudetabet98.png);" ></h1></div>
 <a href="https://tawk.to/chat/6277a9737b967b11798e4e3c/1g2hmrr04" target="kudetabet98"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="kudetabet98"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -751,7 +751,7 @@ const chat69 = `<div class="modalbahaya1" id="rahayu88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/fMXHsSv/rahayu88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15103890" target="rahayu88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="rahayu88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -762,7 +762,7 @@ const chat70 = `<div class="modalbahaya1" id="agen288">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/6ggMS6Z/agen288.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13767375" target="agen288"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="agen288"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -773,7 +773,7 @@ const chat71 = `<div class="modalbahaya1" id="luxury333">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/bWLNDSx/luxury333.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=16489149" target="luxury333"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="luxury333"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -784,7 +784,7 @@ const chat72 = `<div class="modalbahaya1" id="jackpot168">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Jy8hwzZ/jackpot168.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/licence/14602758/v2/open_chat.cgi" target="jackpot168"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="jackpot168"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -795,7 +795,7 @@ const chat73 = `<div class="modalbahaya1" id="fungame777">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/2k1PTbX/gungame777.gif);" ></h1></div>
 <a href="https://secure.livechatinc.com/licence/13061724/v2/open_chat.cgi" target="fungame777"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="fungame777"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -806,7 +806,7 @@ const chat74 = `<div class="modalbahaya1" id="slotmacau188">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/nD5XKJW/slotmacau188.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14635155" target="slotmacau188"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="slotmacau188"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -817,7 +817,7 @@ const chat75 = `<div class="modalbahaya1" id="flash303">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/KDWxPpM/flash303.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13447317" target="flash303"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="flash303"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -828,7 +828,7 @@ const chat76 = `<div class="modalbahaya1" id="wanatoto">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/J3dTfWF/wanatoto.png);" ></h1></div>
 <a href="https://jivo.chat/SvHbTWouW5" target="wanatoto"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="wanatoto"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -839,7 +839,7 @@ const chat77 = `<div class="modalbahaya1" id="adipatislot">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/HF2bP2f/adipatislot.png);" ></h1></div>
 <a href="https://tawk.to/chat/613fcfadd326717cb6814505/1ffgk6fq7?" target="adipatislot"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="adipatislot"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -850,7 +850,7 @@ const chat78 = `<div class="modalbahaya1" id="tkp303">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/KjbYK8L/situstkp303.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14657013" target="tkp303"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="tkp303"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -861,7 +861,7 @@ const chat79 = `<div class="modalbahaya1" id="vit88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/gSkkfxQ/vit88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13539783" target="vit88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="vit88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -872,7 +872,7 @@ const chat80 = `<div class="modalbahaya1" id="indoslot88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/YZ8pqmS/indoslot88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12611073" target="indoslot88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="indoslot88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -883,7 +883,7 @@ const chat81 = `<div class="modalbahaya1" id="hoki138">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/DW9yS7c/hoki138.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14569842" target="hoki138"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="hoki138"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -894,7 +894,7 @@ const chat82 = `<div class="modalbahaya1" id="pesiar88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/CwPhbSZ/pesiar88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14856804" target="pesiar88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="pesiar88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -905,7 +905,7 @@ const chat83 = `<div class="modalbahaya1" id="vipbet88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Gv2GjRc/vipbet88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=2964462" target="vipbet88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="vipbet88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -916,7 +916,7 @@ const chat84 = `<div class="modalbahaya1" id="dewagacor77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Hg0LQHS/dewagacor77.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13131540" target="dewagacor77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="dewagacor77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -927,7 +927,7 @@ const chat85 = `<div class="modalbahaya1" id="hoki178">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/DC7h0g3/HOKI178.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14312892" target="hoki178"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="hoki178"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -938,7 +938,7 @@ const chat86 = `<div class="modalbahaya1" id="ajr88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/yQJ4MQV/ajr88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14452983" target="ajr88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="ajr88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -949,7 +949,7 @@ const chat87 = `<div class="modalbahaya1" id="twinbet">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/bJPxhW2/twinbet.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17460783" target="twinbet"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="twinbet"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -960,7 +960,7 @@ const chat88 = `<div class="modalbahaya1" id="dewasloto">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Rvy4thx/dewasloto.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13875732" target="dewasloto"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="dewasloto"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -971,7 +971,7 @@ const chat89 = `<div class="modalbahaya1" id="kingtoto">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/8NWzkwN/kingtoto.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15376176" target="kingtoto"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="kingtoto"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -982,7 +982,7 @@ const chat90 = `<div class="modalbahaya1" id="mpo777">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/wgbLGYH/mpo777.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12494673" target="mpo777"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mpo777"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -993,7 +993,7 @@ const chat91 = `<div class="modalbahaya1" id="w77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/dGm5jS1/w77.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14979834" target="w77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="w77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1004,7 +1004,7 @@ const chat92 = `<div class="modalbahaya1" id="zona66">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/68ZWTcZ/zona66.png);" ></h1></div>
 <a href="https://app.chaport.com/widget/show.html?appid=662499fd96a23d6d64360a18" target="zona66"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="zona66"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1015,7 +1015,7 @@ const chat93 = `<div class="modalbahaya1" id="mpo111">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/G2jqjqg/mpo111.gif);" ></h1></div>
 <a href="https://tawk.to/chat/60109ad0a9a34e36b970b0b0/1et0dpg0c?" target="mpo111"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mpo111"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1026,7 +1026,7 @@ const chat94 = `<div class="modalbahaya1" id="wis77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/1sMMB17/wis77.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17110815" target="wis77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="wis77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1037,7 +1037,7 @@ const chat95 = `<div class="modalbahaya1" id="jetplay88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/6JspGCs/jetplay88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15545244" target="jetplay88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="jetplay88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1048,7 +1048,7 @@ const chat96 = `<div class="modalbahaya1" id="airbet88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/7v1JwQ5/airbet88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=10715182" target="airbet88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="airbet88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1059,7 +1059,7 @@ const chat97 = `<div class="modalbahaya1" id="n77toto">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/TLgZc6X/n77toto.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=14514438" target="n77toto"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="n77toto"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1070,7 +1070,7 @@ const chat98 = `<div class="modalbahaya1" id="mpocasino">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/gVpq2ZJ/mpocasino.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12664359" target="mpocasino"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mpocasino"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1081,7 +1081,7 @@ const chat99 = `<div class="modalbahaya1" id="hokiwin">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/yg3SvR5/hokiwin.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13036704" target="hokiwin"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="hokiwin"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1092,7 +1092,7 @@ const chat100 = `<div class="modalbahaya1" id="cabe777">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/vsQBz9G/cabe777.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=9571715" target="cabe777"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="cabe777"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1103,7 +1103,7 @@ const chat101 = `<div class="modalbahaya1" id="neko9">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Mg5rDjQ/neko9.png);" ></h1></div>
 <a href="https://tawk.to/chat/6553951f958be55aeaaf9610/1hf77t1mt" target="neko9"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="neko9"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1114,7 +1114,7 @@ const chat102 = `<div class="modalbahaya1" id="boss177">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/bmsT6Lg/boss177.png);" ></h1></div>
 <a href="https://tawk.to/chat/658aa00d07843602b80594c3/1hiio2eb7/" target="boss177"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="boss177"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1125,7 +1125,7 @@ const chat103 = `<div class="modalbahaya1" id="cahaya268">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Z1gmThc/cahaya268.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17219535" target="cahaya268"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="cahaya268"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1136,7 +1136,7 @@ const chat104 = `<div class="modalbahaya1" id="antiktoto">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/6R5h26S/antiktoto.gif);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=18426810" target="antiktoto"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="antiktoto"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1147,7 +1147,7 @@ const chat105 = `<div class="modalbahaya1" id="singgah4d">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Z2BR8sX/singgah4d.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15567714" target="singgah4d"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="singgah4d"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1158,7 +1158,7 @@ const chat106 = `<div class="modalbahaya1" id="pmg88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/hVcFnwy/pmg88.gif);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15380364" target="pmg88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="pmg88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1169,7 +1169,7 @@ const chat107 = `<div class="modalbahaya1" id="scbet88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/KzKN6Mc/scbet88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=10515642" target="scbet88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="scbet88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1180,7 +1180,7 @@ const chat108 = `<div class="modalbahaya1" id="indoagen188">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/KbZWghr/indoagen188.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=15785760" target="indoagen188"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="indoagen188"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1191,7 +1191,7 @@ const chat109 = `<div class="modalbahaya1" id="api77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/KG4nnNm/api77.gif);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17076201" target="api77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="api77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1202,7 +1202,7 @@ const chat110 = `<div class="modalbahaya1" id="joki55">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/GsBpVjq/joki55.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17553657" target="joki55"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="joki55"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1213,7 +1213,7 @@ const chat111 = `<div class="modalbahaya1" id="nusabet">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/30gPfgM/nusabet.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=7982011" target="nusabet"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="nusabet"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1224,7 +1224,7 @@ const chat112 = `<div class="modalbahaya1" id="tektok77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/fkCKyzY/tektok77.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=16014690" target="tektok77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="tektok77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1235,7 +1235,7 @@ const chat113 = `<div class="modalbahaya1" id="shiokambing">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/HGpTh2n/shiokambing.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=10377597" target="shiokambing"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="shiokambing"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1246,7 +1246,7 @@ const chat114 = `<div class="modalbahaya1" id="shiokambing2">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/Wn9CYNR/shiokambing2.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=10969007" target="shiokambing2"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="shiokambing2"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1257,7 +1257,7 @@ const chat115 = `<div class="modalbahaya1" id="shiokambing5">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/kM1ffdm/shiokambing5.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12650925" target="shiokambing5"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="shiokambing5"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1268,7 +1268,7 @@ const chat116 = `<div class="modalbahaya1" id="kaikoslot">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/jVLHdPd/kaikoslot.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13433187" target="kaikoslot"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="kaikoslot"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1279,7 +1279,7 @@ const chat117 = `<div class="modalbahaya1" id="kenzo188">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/qR6tLCQ/kenzo188.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=16607124" target="kenzo188"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="kenzo188"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1290,7 +1290,7 @@ const chat118 = `<div class="modalbahaya1" id="alexabet88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/wrs9YPk/alexabet88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=9285615" target="alexabet88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="alexabet88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1301,7 +1301,7 @@ const chat119 = `<div class="modalbahaya1" id="slotoppo88">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/hd11Vnp/slotoppo88.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=16819017" target="slotoppo88"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="slotoppo88"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1312,7 +1312,7 @@ const chat120 = `<div class="modalbahaya1" id="diva168">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/9ZXZvtG/diva168.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=8599976" target="diva168"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="diva168"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1323,7 +1323,7 @@ const chat121 = `<div class="modalbahaya1" id="mpo666">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/PcjMXQm/mpo666.gif);" ></h1></div>
 <a href="https://tawk.to/chat/5fbfebb5a1d54c18d8edc568/default?" target="mpo666"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="mpo666"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1334,7 +1334,7 @@ const chat122 = `<div class="modalbahaya1" id="xuxu4d">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/dBZHdns/xuxu4d.gif);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=18367545" target="xuxu4d"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="xuxu4d"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1345,7 +1345,7 @@ const chat123 = `<div class="modalbahaya1" id="koin313">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/DQPp0FZ/koin313.png);" ></h1></div>
 <a href="https://app.chaport.com/widget/show.html?appid=6630f7d09c42f38ff5f9b4b1" target="koin313"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="koin313"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1356,7 +1356,7 @@ const chat124 = `<div class="modalbahaya1" id="olympus188">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/r6tCFm2/olympus188.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17800104" target="olympus188"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="olympus188"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1367,7 +1367,7 @@ const chat125 = `<div class="modalbahaya1" id="rusia777">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/f14gf7L/rusia777.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13877010" target="rusia777"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="rusia777"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1378,7 +1378,7 @@ const chat126 = `<div class="modalbahaya1" id="sbobet">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/ZfSG74S/sbobet.png);" ></h1></div>
 <a href="https://callcenter.sbobet.com/chat/PreChatSurvey?culture=en&fromUri=https%3a%2f%2fwww.sbobet.com%2fen%2feuro" target="sbobet"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="sbobet"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1389,7 +1389,7 @@ const chat127 = `<div class="modalbahaya1" id="squad777">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/gSC7sG7/squad777.png);" ></h1></div>
 <a href="https://tawk.to/chat/65df22be9131ed19d972dc2f/1hnnpveon?" target="squad777"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="squad777"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1400,7 +1400,7 @@ const chat128 = `<div class="modalbahaya1" id="judi388">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/T4qb520/judi388.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=12336072" target="judi388"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="judi388"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1411,7 +1411,7 @@ const chat129 = `<div class="modalbahaya1" id="hoki77">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/FDdjTv1/hoki77.png);" ></h1></div>
 <a href="https://tawk.to/chat/5e90510e35bcbb0c9aafb4d0/default?" target="hoki77"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="hoki77"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1422,7 +1422,7 @@ const chat130 = `<div class="modalbahaya1" id="unoplay">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/GJfSvDQ/unoplay.gif);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=13140525" target="unoplay"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="unoplay"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1433,7 +1433,7 @@ const chat131 = `<div class="modalbahaya1" id="dewa234">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/1fVcqDz/dewa234.gif);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=11676600" target="dewa234"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="dewa234"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1444,7 +1444,7 @@ const chat132 = `<div class="modalbahaya1" id="8togel">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/C6BJrmg/8togel.gif);" ></h1></div>
 <a href="https://test140.hkbchat.com/chatapifront?user=22201873&key=ede8f248da975249018d2b24235341a6&prov=10009&title=https://8trubick.com/" target="8togel"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="8togel"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1455,7 +1455,7 @@ const chat133 = `<div class="modalbahaya1" id="dewakoin">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/8DcZDwf/dewakoin.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=10325677" target="dewakoin"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="dewakoin"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -1466,7 +1466,7 @@ const chat134 = `<div class="modalbahaya1" id="spesial303">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(https://i.ibb.co/F5gztjD/spesial303.png);" ></h1></div>
 <a href="https://secure.livechatinc.com/customer/action/open_chat?license_id=17021322" target="spesial303"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="spesial303"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
@@ -2342,7 +2342,7 @@ const chat1000 = `<div class="modalbahaya1" id="nama">
 <div class="container">
 <div class="logo1"><h1 class="logositus" onClick="window.location.reload();"style="background-image: url(XXXlogoXnamaXXX);" ></h1></div>
 <a href="XXXXiframeXnamaXXXX" target="nama"><button class="showclosechat kekanan01" onclick="enableAutoplay()" type="button"><b>BUKA CHAT</b></button></a><button class="showclosechat kekiri01" onclick="xjudisuhu()" type="button"><b>KEMBALI</b></button>
-<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/564x/a9/f1/eb/a9f1eb1fca8c87730ac3e2af83be4f8e.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
+<img class="iklan1 keatas01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/736x/8d/19/bf/8d19bf74fe32fe5f070feaf0d3481549.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <iframe class="chat" src="../berita.html" name="nama"></iframe>
 <img class="iklan2 kebawah01" onclick="xjudisuhu()" style="background-image: url(https://i.ibb.co/QC3Nq9T/border1.png), url(https://i.pinimg.com/600x/7b/1c/c0/7b1cc0ad4c481630bc683d38993efd4b.jpg);" src="https://i.ibb.co/8c8MZYB/jdiklan.gif"></img>
 <div class="clearfixbahaya">
