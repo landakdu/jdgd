@@ -72,14 +72,14 @@ display: none;
 .keatas01 {
   position: relative;
   animation-name: keatas01;
-  animation-duration: 4s;
+  animation-duration: 2s;
   animation-delay: -0s;
 }
 
 .kebawah01 {
   position: relative;
   animation-name: kebawah01;
-  animation-duration: 4s;
+  animation-duration: 2s;
   animation-delay: -0s;
 }
 
