@@ -1,4 +1,4 @@
-function xjudisuhu() {location.replace("https://masuktanpavpnselamanya.on.drv.tw/links/judisuhu/");}
+function xjudisuhu() {location.replace("./link/judisuhu/index.html");}
 function xfreebet() {window.open("./link/freebet/index.html");}
 function xpphoki() {window.open("./link/pphoki/index.html");}
 function xlotto01() {window.open("./link/lotto01/index.html");}
